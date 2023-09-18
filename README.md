@@ -24,8 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="(https://www.svgrepo.com/show/439231/mongodb.svg)" height="30" alt="mongo"  />
-  <img width="12" />
+  <img src="[(https://www.svgrepo.com/show/439231/mongodb.svg)](https://www.svgrepo.com/show/373845/mongo.svg)" height="30" alt="mongo"  />
+
   <img src="https://miro.medium.com/v2/resize:fit:512/1*314zAbKFKYTuxHNwRO07SA.png" height="30" alt="nodejs"  />
 </div>
 
