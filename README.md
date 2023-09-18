@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ruban Nadar. and I'm a Software Engineer, from Mumbai</h2>
+<h2 align="left">Hi 👋! My name is Ruban Nadar and I'm a Software Engineer, from Mumbai</h2>
 
 ###
 
@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="30" alt="react"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*314zAbKFKYTuxHNwRO07SA.png" height="30" alt="csharp nodejs"  />
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*314zAbKFKYTuxHNwRO07SA.png" height="30" alt="nodejs"  />
 </div>
 
 ###
