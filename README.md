@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fde%2Flogo%2Fmongodb-icon-1&psig=AOvVaw3mvAc41rsw-V9T-v9PvyMg&ust=1695110125041000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICWv7jXs4EDFQAAAAAdAAAAABBE" height="30" alt="mongo"  />
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" height="30" alt="mongo"  />
 
   <img src="https://miro.medium.com/v2/resize:fit:512/1*314zAbKFKYTuxHNwRO07SA.png" height="30" alt="nodejs"  />
 </div>
